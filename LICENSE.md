@@ -1,4 +1,4 @@
-#  Bee-Swarm-Simulator-Script - Automate Your Honey Farming
+#  Bee Swarm Simulator Script — Automate Your Honey Farming
 
 Welcome to the Bee-Swarm-Simulator-Script! This application helps you automate your gameplay in Bee Swarm Simulator. It features macro-style loops and keyless loading, making it easy to maximize your honey income. With its mobile-friendly interface, you can grind endlessly and customize your fields, tokens, and safety settings for the best experience in 2026.
 
